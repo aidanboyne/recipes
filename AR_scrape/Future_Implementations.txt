@@ -1,0 +1,2 @@
+Future Implementation Ideas:
+  - Auto markdown generation and rendering
